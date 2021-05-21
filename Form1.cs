@@ -28,13 +28,13 @@ namespace Sesion_2_Sdk_SAP
         {
             var oCompany = new Company
             {
-                LicenseServer = "192.168.1.14:30000",
-                Server = "192.168.1.14",
-                DbServerType = BoDataServerTypes.dst_MSSQL2016,
-                CompanyDB = "PEPPERI_TEST",
-                UserName = "manager",
-                Password = "vNptcBMMhj",
-                language = BoSuppLangs.ln_Spanish_La
+                LicenseServer = "",
+                Server = "",
+                DbServerType = ,
+                CompanyDB = "",
+                UserName = "",
+                Password = "",
+                language = 
             };
 
             if (oCompany.Connect() != 0)
