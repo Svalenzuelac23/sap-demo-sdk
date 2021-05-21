@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "timEkGySM5FTKBBOOA9wRodlLPQUp5MozBX2vMueauttF2vfxSHwX68cqULYMHEQ/uWJM1WOWnCUhEVUglKpZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s.valenzuela\\source\\repos\\Sesion 2 Sdk SAP\\Sesion 2 Sdk SAP\\Sesion 2 Sdk SAP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.valenzuela\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
